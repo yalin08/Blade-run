@@ -1,0 +1,4 @@
+repository "project blade runner@Staj_proje@cloud"
+  path "/"
+    br "/main"
+    co "/main"
